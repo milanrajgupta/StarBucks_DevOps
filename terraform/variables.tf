@@ -9,11 +9,11 @@ variable "key_name" {
 
 variable "access_key" {
   default = "insert"                # aws access key
-  type = "string"
+  type = string
 }
 
 variable "secret_key" {
   default = "insert"         # aws secret key
-  type = "string"
+  type = string
 }
 
