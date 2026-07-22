@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "starbucks_key"                  # Names of key in aws
+  default = "pathnext-ec2-key"                  # Names of key in aws
 }
 
 
